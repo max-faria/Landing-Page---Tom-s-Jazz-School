@@ -13,9 +13,9 @@ The project was developed following the Mobile First principle, and adjustments 
 - Use of different display options: box, grid, and flex.
 
 
-## Referência
+## Reference
 
- - [MockUp Figma](https://www.figma.com/file/76GJ4uK7PyKeAo6dcpVyjA/Tom's-Jazz-School?node-id=0%3A1)
+ - [Template Figma](https://www.figma.com/file/76GJ4uK7PyKeAo6dcpVyjA/Tom's-Jazz-School?node-id=0%3A1)
 
 
 ## Colors documentation
