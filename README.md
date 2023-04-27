@@ -30,9 +30,8 @@ The project was developed following the Mobile First principle, and adjustments 
 
 ## Screenshots
 
-Desktop version:
+Desktop and mobile version:
 ![screenshot1](https://user-images.githubusercontent.com/127763619/234900679-a38f33b8-ade9-40ca-86fa-4062b26585da.png)
 
-Mobile Version:
 ![screenshot2](https://user-images.githubusercontent.com/127763619/234900815-871f2afb-30c3-4b69-bde6-9d87d69d94e2.PNG)
 
