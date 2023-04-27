@@ -30,5 +30,5 @@ The project was developed following the Mobile First principle, and adjustments 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](![screenshot1](https://user-images.githubusercontent.com/127763619/234900164-40643cf4-594e-477a-a646-3ac0839c6847.png))
 
