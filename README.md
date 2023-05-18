@@ -22,9 +22,14 @@ The project was developed following the Mobile First principle, and adjustments 
 
 ## Tech Stack
 
-The following tools were used in the construction of the project:
-
--   **[Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)**
+<div display:"flex">
+<a>
+ <img style="border-radius: 50%;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50px;"/>
+ </a>
+<a>
+ <img style="border-radius: 50%;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="50px;"/>
+ </a>
+ </div>
 
 
 ## Colors documentation
