@@ -50,7 +50,7 @@ Mobile Version:
 
 <a>
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/127763619?s=400&u=e41acd5947731c4604b1b0fd518426939e6bfdf8&v=4" width="100px;" alt="Max Faria"/>
- <sub><b> Made with ❤️ by Max Faria 👋🏽 Entre em contato!</b></sub></a> <a></a>
+ <sub><b> Made with ❤️ by Max Faria 👋🏽 Get in touch!</b></sub></a> <a></a>
  <br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-Max-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)]([https://www.linkedin.com/in/tgmarinho/](https://www.linkedin.com/in/max-faria-b212801ba/)) 
