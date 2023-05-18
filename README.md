@@ -5,10 +5,13 @@ This project consists of building a landing page for a fictional music school ca
 
 The project was developed following the Mobile First principle, and adjustments were later made for desktop viewing.
 
+## Project Status
+
+![Project Status](https://img.shields.io/badge/status-completed-success)
 
 ## Learnings
 
-- Use of classes and pseudoclasses in styling a landing page.
+- Use of classes and pseudoclasses for styling.
 - Use of @media screen resources for page responsiveness.
 - Use of different display options: box, grid, and flex.
 
@@ -16,6 +19,12 @@ The project was developed following the Mobile First principle, and adjustments 
 ## Reference
 
  - [Template Figma](https://www.figma.com/file/76GJ4uK7PyKeAo6dcpVyjA/Tom's-Jazz-School?node-id=0%3A1)
+
+## Tech Stack
+
+The following tools were used in the construction of the project:
+
+-   **[Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)**
 
 
 ## Colors documentation
@@ -30,8 +39,22 @@ The project was developed following the Mobile First principle, and adjustments 
 
 ## Screenshots
 
-Desktop and mobile version:
+Desktop version:
+
 ![screenshot1](https://user-images.githubusercontent.com/127763619/234900679-a38f33b8-ade9-40ca-86fa-4062b26585da.png)
 
+Mobile Version:
 ![screenshot2](https://user-images.githubusercontent.com/127763619/234900815-871f2afb-30c3-4b69-bde6-9d87d69d94e2.PNG)
 
+## Author
+
+<a>
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/127763619?s=400&u=e41acd5947731c4604b1b0fd518426939e6bfdf8&v=4" width="100px;" alt="Max Faria"/>
+ <sub><b> Made with ❤️ by Max Faria 👋🏽 Entre em contato!</b></sub></a> <a></a>
+ <br />
+
+[![Linkedin Badge](https://img.shields.io/badge/-Max-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)]([https://www.linkedin.com/in/tgmarinho/](https://www.linkedin.com/in/max-faria-b212801ba/)) 
+[![Gmail Badge](https://img.shields.io/badge/-mxxfaria@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mxxfaria@gmail.com)](mailto:mxxfaria@gmail.com)
+
+## License
+![GitHub license](https://img.shields.io/badge/license-MIT-brightgreen)
